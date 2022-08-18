@@ -1,0 +1,6 @@
+org\example\service\InmemoryService.class
+org\example\connection\MySQLConnectionUtility.class
+org\example\Interface\UserService.class
+org\example\model\User.class
+org\example\servlet\UserServlet.class
+org\example\service\InDatabaseService.class
